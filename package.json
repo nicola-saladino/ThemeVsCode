@@ -6,6 +6,9 @@
   "semanticHighlighting": true,
   "license": "MIT",
   "icon": "./images/logo.png",
+  "categories": [
+    "Themes"
+],
   "repository": {
     "type": "git",
     "url": "https://github.com/nicola-saladino/ThemeVsCode"
