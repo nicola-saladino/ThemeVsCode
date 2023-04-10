@@ -5,6 +5,10 @@
   "type": "light",
   "semanticHighlighting": true,
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicola-saladino/ThemeVsCode"
+  },
   "publisher": "NicolaSalad",
   "engines": {
     "vscode": "^1.1.0"
